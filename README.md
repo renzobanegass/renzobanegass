@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/renzobanegas/" target="_blank" rel="noreferrer"> <img src="https://github.com/renzobanegass/renzobanegass/blob/main/5296501_linkedin_network_linkedin%20logo_icon.png" alt="c" width="40" height="40"/></a> &nbsp; &nbsp;
 </p>
 
-### Software Developer
+### Full Stack Developer
 
 ### Hi there 👋, I'm Renzo Banegas
 
