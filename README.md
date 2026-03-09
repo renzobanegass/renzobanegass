@@ -13,7 +13,7 @@
 
 ---
 
-I've been working as a Software Developer for plenty of industries for the past 5 years and I'm currently introducing myself into Web3. I really like to learn new languages but for a long time I was married with .NET.
+I've been working as a Software Developer for plenty of industries for the past 5 years and I'm currently introducing myself into Web3.
 
-- 🔭 I’m currently working as a Server Engineer
+- 🔭 I’m currently working as a Full Stack Developer
 - 🌱 I’m currently learning Web3 technologies
